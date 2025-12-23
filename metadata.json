@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HireBot AI - Auto Apply",
+  "description": "A powerful AI-driven job application automation tool that helps users apply to thousands of jobs across LinkedIn, Indeed, and more with minimal effort.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
